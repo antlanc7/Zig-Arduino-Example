@@ -1,8 +1,8 @@
 # Example Zig Arduino Project
 
 Working with Zig version 0.9.1 stable on Windows.\
-It uses the avr-arduino-zig fork as dependency.\
-Avrdude is needed to be available in the PATH to flash the binary to the Arduino.
+It uses the [avr-arduino-zig](https://github.com/antlanc7/avr-arduino-zig) fork as dependency.\
+Avrdude is needed to be available in the PATH to flash the binary to the Arduino. If you have installed Arduino IDE you can find it in the `C:\Program Files (x86)\Arduino\hardware\tools\avr\bin` folder.
 
 - `zigmod fetch` to get the dependencies
 - `zig build` to build the binary
