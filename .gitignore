@@ -1,0 +1,5 @@
+*.lock
+.zigmod
+zig-cache
+zig-out
+deps.zig

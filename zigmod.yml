@@ -1,0 +1,6 @@
+id: 2wa9r9qsrh8fdzs0qsiyd4jfnx4b0qmtoz72le8774hgbquh
+name: arduino
+license: MIT
+description: Example project Arduino with Zig on Windows
+dev_dependencies:
+- src: git https://github.com/antlanc7/avr-arduino-zig.git
